@@ -1,6 +1,3 @@
-Here’s a complete `README.md` file ready to save directly in your project folder as **one file**:
-
-````markdown
 # Build Your Own Functional AI Coding Agent
 
 **Description:**  
