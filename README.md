@@ -69,33 +69,7 @@ my_ai_agent/
 └─ README.md```
 
 ---
+ 
 
-If you want, I can also **create a fully ready-to-run agent template** that you can **push to GitHub and submit for the Kaggle capstone** in just one go.  
-
-Do you want me to do that next?
-```
-```
-
----
-
-## References
-
-* Tutorial: [FreeCodeCamp – Build AI Coding Agent](https://www.freecodecamp.org/news/build-your-own-functional-ai-coding-agent/)
-* Interactive Course: [Boot.dev](https://www.boot.dev/courses/build-ai)
-* FreeCodeCamp: [Learn to code for free](https://www.freecodecamp.org)
-
----
-
-## Future Improvements
-
-* Add long-term memory for multi-session tasks
-* Integrate with APIs for more advanced automation
-* Deploy as a web-based productivity agent
-
----
-
-## Short Repo Description (for GitHub About section)
-
-Build a functional AI coding agent in Python with Gemini API, featuring an agentic loop, tool calling, and memory tracking for file and code operations.
 
 
