@@ -66,7 +66,14 @@ my_ai_agent/
 ├─ tools/          # Tools for agent: read/write/run files
 ├─ memory/         # Optional memory storage
 ├─ config.json     # API keys & configuration
-└─ README.md
+└─ README.md```
+
+---
+
+If you want, I can also **create a fully ready-to-run agent template** that you can **push to GitHub and submit for the Kaggle capstone** in just one go.  
+
+Do you want me to do that next?
+```
 ```
 
 ---
@@ -91,11 +98,4 @@ my_ai_agent/
 
 Build a functional AI coding agent in Python with Gemini API, featuring an agentic loop, tool calling, and memory tracking for file and code operations.
 
-```
 
----
-
-If you want, I can also **create a fully ready-to-run agent template** that you can **push to GitHub and submit for the Kaggle capstone** in just one go.  
-
-Do you want me to do that next?
-```
